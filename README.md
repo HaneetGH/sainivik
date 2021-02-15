@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainivik&label=Visitorss&color=blue&style=plastic" alt="sainivik" /> </p>
 
-<img align="right" alt="GIF" src="https://github.com/sainivik/sainivik/blob/main/img/code.gif?raw=true" width="500" height="320" />
-
 ![Metrics](https://metrics.lecoq.io/sainivik)
 
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=sainivik)
