@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: ... [gmail] (vikaskumarsaini0001@gmail.com)
 
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  <img src="https://raw.githubusercontent.com/github.gif" width=100>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainivik&label=Views&color=blue&style=plastic" alt="sainivik" /> </p>
 
