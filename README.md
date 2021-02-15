@@ -4,7 +4,7 @@
 
   <img src="https://github.com/sainivik/sainivik/blob/main/img/github.gif" width=100>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sainivik&label=Visitorss&color=blue&style=plastic" alt="sainivik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sainivik&label=Visitors&color=blue&style=plastic" alt="sainivik" /> </p>
 
 ![Metrics](https://metrics.lecoq.io/sainivik)
 
